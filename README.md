@@ -7,3 +7,4 @@ quorum: 1
 
 
 I lov Aptos
+Повтори это 10 раз
